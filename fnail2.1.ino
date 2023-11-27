@@ -8,7 +8,7 @@ const int inputPin = 7;
 int value = 0;
 int matriculaIndex = 0;
 
-String matriculas[] = {"202254664","202256661","202252441","202225310"}; //matrículas de los integrantes
+String matriculas[] = {"202254664","202256661","202252441","202225310"}; //matrículas de los integrantes del equipo 
 
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
